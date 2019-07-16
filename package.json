@@ -1,0 +1,25 @@
+{
+  "name": "queue.js",
+  "version": "1.0.0",
+  "description": "Queue Code and execute it whenever you want",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bellalMohamed/queue.js.git"
+  },
+  "keywords": [
+    "Queue",
+    "JS",
+    "queue.js",
+    "queuejs"
+  ],
+  "author": "Bellal Mohamed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bellalMohamed/queue.js/issues"
+  },
+  "homepage": "https://github.com/bellalMohamed/queue.js#readme"
+}
